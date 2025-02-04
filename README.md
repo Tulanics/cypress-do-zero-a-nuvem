@@ -27,4 +27,4 @@ Run `npm run test:mobile` to run the test in a headless mode on a mobile viewpor
 
 or, run `npm run cy:open:mobile` to open the Cypress App on a mobile viewport
 
-Vá para a seção [estrutura do curso](./_course-structure_.md).
+For more details go to [estrutura do curso](./lessons/_course-structure_.md).
